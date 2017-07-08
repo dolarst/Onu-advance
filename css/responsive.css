@@ -1,0 +1,81 @@
+@media screen and (max-width:1024px){
+.navbar-default .navbar-nav > li > a {font-size: 12px;}
+.priceinfo span {font-size: 15px;}
+.priceinfo h1 {font-size: 16px;}
+.priceinfo h2 {font-size: 15px;}
+.priceinfo h3 {font-size: 13px;}
+.priceinfo h4 {font-size: 16px;}
+.priceinfo a {padding: 9px 12px;}
+
+}
+
+@media screen and (max-width:768px){
+
+.navbar-default .navbar-nav > li > a {font-size: 10px;}
+.nav>li>a {padding: 10px 5px;}
+.bannertext h2 {font-size: 25px;}
+.bannertext h1 {font-size: 65px;border:0px solid;}
+.bannertext h1 {font-size: 25px;}
+.servicetext p {font-size: 15px;}
+.button {font-size: 13px;}	
+.servicetext p {font-size: 15px;}
+.priceinfo h1 {padding: 35px;}	
+.priceinfo h1 {font-size: 12px;}	
+.priceinfo span {font-size: 10px;}
+.priceinfo {padding: 25px 19px;}
+.priceinfo i {
+    font-size: 15px;
+    top: 71px;
+    left: 53px;}	
+.servicetext p {font-size: 15px;}	
+.serviceinfo i { font-size: 70px;}	
+.serviceinfo h2 {font-size: 18px;}	
+.serviceinfo p {font-size: 12px;}	
+}
+
+@media screen and (max-width:640px){
+
+.nav>li>a {padding: 1px 1px;}
+.aboutinfo h2 {font-size: 15px;}
+.button-group .button {margin-right: 5px;}
+.priceinfo i {font-size: 11px;top: 60px; left: 45px;}
+.priceinfo a {padding: 7px 10px;}
+.serviceinfo h2 {font-size: 17px;}
+.serviceinfo i {font-size: 60px;}
+
+}
+
+@media screen and (max-width:480px){
+.bannertext h3 {font-size: 22px;}
+.bannertext h2 {font-size: 20px;}
+.bannertext h1 {font-size: 23px;padding: 9px 0px;margin: 16px 0px;}
+.aboutustext p {font-size: 19px;}
+.aboutinfo i {font-size: 50px;}
+.aboutinfo h2 { font-size: 18px;}
+.servicetext h2 {font-size: 22px;}
+.servicetext h2 {font-size: 20px;}
+.button { font-size: 9px;}
+.button-group .button {margin-right: 1px;}
+.priceinfo h1 {padding: 20px;}
+.priceinfo h1 {padding: 15px;}
+.priceinfo i {font-size: 10px;top: 44px;left: 25px;}
+.priceinfo h2 {font-size: 13px;}
+.priceinfo a { padding: 4px 1px;font-size: 10px;}
+.serviceinfo i {font-size: 40px;}
+.serviceinfo h2 {font-size: 12px;}
+.serviceinfo p {font-size: 10px;}
+.projecttext h1 {font-size: 30px;}
+.projecttext p {font-size: 16px;margin-bottom: 20px;}
+.footerbottomtextleft p {font-size: 12px;}
+
+
+}
+
+@media screen and (max-width:480px){
+.title h2 {
+
+  font-size: 25px;
+  padding-left: 5px;
+}	
+	
+}
